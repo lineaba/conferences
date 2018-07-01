@@ -5,6 +5,8 @@ Keeping track of conferences I find interesting
 
 + [Gihub Universe](https://githubuniverse.com/) 
 
++ [GDG DevFest](https://devfest.gdg.org.ua/)
+
 # Open Source #  
 + Open Source conference O'Reilly #Oscon
 + Linux Foundation Open Source Summit #OSSummit ([North America](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/), and [Europe](https://events.linuxfoundation.org/events/open-source-summit-europe-2018/))
